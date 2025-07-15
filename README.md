@@ -1,6 +1,11 @@
 # 🎨 Dot Painting with Python
 > A turtle-based rendition of Hirst-inspired dot painting 🟣🔵🟢 using just Python and creativity.
-> A colorful dot art generator using Python’s turtle module. Inspired by artwork and designed as a fun creative coding project!
+
+---
+
+## 🚀 What is This?
+
+This project generates a vibrant **dot painting** using Python’s built-in `turtle` graphics. It uses a pre-defined (or extracted) color palette to draw a grid of colorful dots — like pixel art, but painted with joy.
 
 ---
 
@@ -11,13 +16,6 @@
 <p align="center">
   <img src="./output.png" alt="Hirst Style Dot Painting Output" width="500"/>
 </p>
-
-
-## 🚀 What is This?
-
-This project generates a vibrant **dot painting** using Python’s built-in `turtle` graphics. It uses a pre-defined (or extracted) color palette to draw a grid of colorful dots — like pixel art, but painted with joy.
-
----
 
 ## ✨ Features
 
