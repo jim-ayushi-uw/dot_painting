@@ -4,6 +4,15 @@
 
 ---
 
+## 🎨 Output Preview
+
+> This dot painting was generated using Python Turtle, inspired by Damien Hirst's iconic dot artwork style.
+
+<p align="center">
+  <img src="./output.png" alt="Hirst Style Dot Painting Output" width="500"/>
+</p>
+
+
 ## 🚀 What is This?
 
 This project generates a vibrant **dot painting** using Python’s built-in `turtle` graphics. It uses a pre-defined (or extracted) color palette to draw a grid of colorful dots — like pixel art, but painted with joy.
